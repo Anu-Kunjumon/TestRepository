@@ -6,6 +6,7 @@ test3
 test3
 
 test3
+<<<<<<< HEAD
 Hi, this is line1
 test1,test2
 test3
@@ -14,3 +15,6 @@ test3
 test3
 
 test3
+=======
+
+>>>>>>> branch 'main' of https://github.com/Anu-Kunjumon/TestRepository.git
